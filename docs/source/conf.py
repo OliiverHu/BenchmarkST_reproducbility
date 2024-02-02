@@ -1,13 +1,13 @@
 # Configuration file for the Sphinx documentation builder.
 
-# -- Project information
+# -- Project information -----------------------------------------------------
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'BenchmarkST'
+copyright = '2024, Yunfei Hu'
+author = 'Yunfei Hu'
 
-release = '0.1'
-version = '0.1.0'
+# The full version, including alpha/beta/rc tags
+release = '1.0.0'
 
 # -- General configuration
 
