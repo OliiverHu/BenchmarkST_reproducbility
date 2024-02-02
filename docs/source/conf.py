@@ -12,6 +12,7 @@ release = '1.0.0'
 # -- General configuration
 
 extensions = [
+    "nbsphinx",
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',

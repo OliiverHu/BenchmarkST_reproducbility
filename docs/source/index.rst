@@ -7,7 +7,8 @@ BenchmarkST - reproducibility documentation
 =============================================================================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
+   :caption: Contents:
 
    Installation
    Data availability
