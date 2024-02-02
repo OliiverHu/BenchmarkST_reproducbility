@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-BenchmartST reproducibility documentation for paper – "Benchmarking clustering, alignment and integration methods for spatial transcriptomics"
+BenchmarkST - reproducibility documentation
 =============================================================================
 
 .. toctree::
@@ -56,8 +56,6 @@ docs for figure reproduction (0/n)
 
 Introduction
 ========
-STAGATE is designed for spatial clustering and denoising expressions of spatial resolved transcriptomics (ST) data. 
-
 We benchmarked 14 clustering methods and 8 integration methods all with state-of-the-art performance. Evaluation occurred on 9 publicly available ST datasets of varying sizes, technologies, species, and complexity. Different experimental metrics and analyses, like adjusted rand index (ARI), uniform manifold approximation and projection (UMAP), node and layer matching ratio, spatial coherence score (SCS), and downstream biological analysis, are meticulously designed to quantitatively and qualitatvely assess method performance as well as data quality. GraphST, ADEPT, STAGATE, and BASS showed overall superior performance across different experiments. However, most clustering algorithms performed well on some datasets but had lower accuracy on others. Paste/Paste2 demonstrated distinctive performance in downstream analyses.
 
 Citation
