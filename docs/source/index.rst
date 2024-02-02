@@ -45,9 +45,13 @@ online currently under development
 TODO list
 ========
 docs for general installation guide
+
 docs for data availability
+
 docs for clustering methods (0/14)
+
 docs for integration methods (0/8)
+
 docs for figure reproduction (0/n)
 
 Introduction
