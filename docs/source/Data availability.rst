@@ -3,7 +3,7 @@ Data availability
 
 
 .. list-table:: ST Dataset Info Table
-   :widths: 70 20
+   :widths: 25 25 50 50 50 50 50
    :header-rows: 1
 
    * - ST Dataset
