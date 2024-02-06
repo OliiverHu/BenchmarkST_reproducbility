@@ -18,22 +18,22 @@ BenchmarkST - reproducibility documentation
    conGI
    SpatialPCA
    DR-SC
-   STAGATE
-   CCST
-   SEDR
-   SpaGCN
-   BayesSpace
-   PRECAST
-   BASS
-   DeepST
-   SPIRAL
-   STAligner
-   Paste
-   Paste2
-   PRECAST_integration
-   SPACEL
-   BASS_integration
-   DeepST_integration
+   .. STAGATE
+   .. CCST
+   .. SEDR
+   .. SpaGCN
+   .. BayesSpace
+   .. PRECAST
+   .. BASS
+   .. DeepST
+   .. SPIRAL
+   .. STAligner
+   .. Paste
+   .. Paste2
+   .. PRECAST_integration
+   .. SPACEL
+   .. BASS_integration
+   .. DeepST_integration
    
 
 .. image:: ../Images/benchmarkst_pipeline.png
