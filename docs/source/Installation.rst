@@ -1,7 +1,7 @@
 Installation
 ============
 
-We strongly suggest to follow the installation instructions given by each method. We will also provide the .yaml file of our debugging environment in each subfolder.
+We strongly suggest to follow the installation instructions given by each method. We will also provide the .yaml file of our debugging environment in each subfolder just for reference.
 
 
 .. ADEPT
