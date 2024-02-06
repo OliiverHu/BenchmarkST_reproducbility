@@ -16,7 +16,6 @@ Data availability
      - Sequencing-based
      - DLPFC
      - 10x Visium
-     - $ \sim $4000/33538
      - 12
      - `spatialLIBD <http://spatial.libd.org/spatialLIBD/>`__
    * - Human Breast Cancer Block A Section 1
