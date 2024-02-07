@@ -18,10 +18,10 @@ BenchmarkST - reproducibility documentation
    conGI
    SpatialPCA
    DR-SC
-   .. STAGATE
-   .. CCST
-   .. SEDR
-   .. SpaGCN
+   STAGATE
+   CCST
+   SEDR
+   SpaGCN
    .. BayesSpace
    .. PRECAST
    .. BASS
@@ -49,7 +49,7 @@ docs for general installation guide
 
 docs for data availability
 
-docs for clustering methods (0/14)
+docs for clustering methods (4/14)
 
 docs for integration methods (0/8)
 
