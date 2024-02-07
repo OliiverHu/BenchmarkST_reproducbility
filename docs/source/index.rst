@@ -8,7 +8,7 @@ BenchmarkST - reproducibility documentation
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
+   :caption: Clustering:
 
    Installation
    Data availability
@@ -26,6 +26,8 @@ BenchmarkST - reproducibility documentation
    PRECAST
    BASS
    DeepST
+
+   :caption: Integration:
    .. SPIRAL
    .. STAligner
    .. Paste
