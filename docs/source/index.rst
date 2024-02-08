@@ -28,7 +28,7 @@ BenchmarkST - reproducibility documentation
    DeepST
 
    :caption: Integration:
-   .. SPIRAL
+   SPIRAL
    .. STAligner
    .. Paste
    .. Paste2
@@ -51,7 +51,7 @@ docs for general installation guide (1/1)
 
 docs for data availability (1/1)
 
-docs for clustering methods (8/14)
+docs for clustering methods (9/14)
 
 docs for integration methods (0/8)
 
