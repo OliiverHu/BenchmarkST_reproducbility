@@ -10,10 +10,15 @@ BenchmarkST - reproducibility documentation
    :numbered:
    :maxdepth: 1
 
-   :caption: Clustering:
-
    Installation
    Data availability
+
+.. toctree::
+   :numbered:
+   :maxdepth: 1
+
+   :caption: Clustering:
+
    ADEPT
    GraphST
    conST
