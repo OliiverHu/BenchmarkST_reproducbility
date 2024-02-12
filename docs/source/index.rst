@@ -7,14 +7,12 @@ BenchmarkST - reproducibility documentation
 =============================================================================
 
 .. toctree::
-   :numbered:
    :maxdepth: 1
 
    Installation
    Data availability
 
 .. toctree::
-   :numbered:
    :maxdepth: 1
 
    :caption: Clustering:
@@ -35,7 +33,6 @@ BenchmarkST - reproducibility documentation
    DeepST
 
 .. toctree::
-   :numbered:
    :maxdepth: 1
 
    :caption: Integration:
@@ -49,7 +46,6 @@ BenchmarkST - reproducibility documentation
    .. DeepST_integration
 
 .. toctree::
-   :numbered:
    :maxdepth: 1
    :caption: Analysis:
    
