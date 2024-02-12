@@ -8,7 +8,6 @@ BenchmarkST - reproducibility documentation
 
 .. toctree::
    :numbered:
-   :titlesonly:
    :maxdepth: 1
 
    :caption: Clustering:
@@ -32,7 +31,6 @@ BenchmarkST - reproducibility documentation
 
 .. toctree::
    :numbered:
-   :titlesonly:
    :maxdepth: 1
 
    :caption: Integration:
@@ -47,7 +45,6 @@ BenchmarkST - reproducibility documentation
 
 .. toctree::
    :numbered:
-   :titlesonly:
    :maxdepth: 1
    :caption: Analysis:
    
