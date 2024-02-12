@@ -7,7 +7,10 @@ BenchmarkST - reproducibility documentation
 =============================================================================
 
 .. toctree::
+   :numbered:
+   :titlesonly:
    :maxdepth: 1
+
    :caption: Clustering:
 
    Installation
@@ -27,6 +30,11 @@ BenchmarkST - reproducibility documentation
    BASS
    DeepST
 
+.. toctree::
+   :numbered:
+   :titlesonly:
+   :maxdepth: 1
+
    :caption: Integration:
    SPIRAL
    .. STAligner
@@ -36,6 +44,13 @@ BenchmarkST - reproducibility documentation
    .. SPACEL
    .. BASS_integration
    .. DeepST_integration
+
+.. toctree::
+   :numbered:
+   :titlesonly:
+   :maxdepth: 1
+   :caption: Analysis:
+   
    
 
 .. image:: ../Images/benchmarkst_pipeline.png
