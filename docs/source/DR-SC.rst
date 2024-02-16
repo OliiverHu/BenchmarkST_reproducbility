@@ -1,8 +1,7 @@
 DR-SC
 ============
 
-.. note::
-    Dependencies
+#. Dependencies
 
 .. code-block:: r
     library("DR.SC")
@@ -10,8 +9,7 @@ DR-SC
     library(ggplot2)
     library(tictoc)
 
-.. .. note::
-    Data loading: DLPFC
+#. Data loading: DLPFC
 
 .. code-block:: r
 
@@ -97,8 +95,7 @@ DR-SC
    head(sp_data)
 
 
-.. note::
-    Data Loading: MHypothalamus Bregma
+#. Data Loading: MHypothalamus Bregma
 
 .. code-block:: r
     dir.input <- file.path('/data/maiziezhou_lab/Datasets/ST_datasets/', sample.name)
@@ -134,8 +131,7 @@ DR-SC
     sp_data$orig.ident <- 1
     Idents(sp_data) <- row.names(sp_data@meta.data)
 
-.. note::
-    Run the DR.SC
+#. Run the DR.SC
 
 .. code-block:: r
     sp_data <- NormalizeData(sp_data, verbose = F)
@@ -146,8 +142,7 @@ DR-SC
     seu <- DR.SC(seu, K=as.numeric(cluster.number), platform = 'Visium', verbose=F)
 
 
-.. note::
-    Calculate the ARI
+#. Calculate the ARI
 
 .. code-block:: r
     ## SAVE the files
