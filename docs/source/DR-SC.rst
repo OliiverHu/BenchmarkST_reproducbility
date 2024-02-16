@@ -1,3 +1,6 @@
+DR-SC
+============
+
 .. note::
     Dependencies
 
@@ -7,7 +10,7 @@
     library(ggplot2)
     library(tictoc)
 
-.. note::
+.. .. note::
     Data loading: DLPFC
 
 .. code-block:: r
