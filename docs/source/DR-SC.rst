@@ -1,4 +1,4 @@
-DR-SC
+DR-SC tutorial
 ============
 
 #. Dependencies
@@ -98,7 +98,7 @@ DR-SC
 #. Data Loading: MHypothalamus Bregma
 
 .. code-block:: r
-    
+
     dir.input <- file.path('/data/maiziezhou_lab/Datasets/ST_datasets/', sample.name)
 
     if(!dir.exists(file.path(dir.output))){
