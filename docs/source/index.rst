@@ -7,15 +7,16 @@ BenchmarkST - reproducibility documentation
 =============================================================================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    Installation
    Data availability
+   :caption: Get started
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
-   :caption: Clustering:
+   
 
    ADEPT
    GraphST
@@ -31,22 +32,23 @@ BenchmarkST - reproducibility documentation
    PRECAST_clustering
    BASS_clustering
    DeepST
+   :caption: Clustering
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
-   :caption: Integration:
    SPIRAL
-   .. STAligner
-   .. Paste
-   .. Paste2
-   .. PRECAST_integration
-   .. SPACEL
-   .. BASS_integration
-   .. DeepST_integration
+   STAligner
+   Paste
+   Paste2
+   PRECAST_integration
+   SPACEL
+   BASS_integration
+   DeepST_integration
+   :caption: Integration
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Analysis:
    
    
@@ -64,7 +66,7 @@ docs for general installation guide (1/1)
 
 docs for data availability (1/1)
 
-docs for clustering methods (9/14)
+docs for clustering methods (14/14)
 
 docs for integration methods (0/8)
 
