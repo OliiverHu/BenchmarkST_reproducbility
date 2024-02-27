@@ -7,18 +7,18 @@ BenchmarkST - reproducibility documentation
 =============================================================================
 
 .. toctree::
+   :caption: Getting Started
    :maxdepth: 1
 
    Installation
    Data availability
    
-   Get started
-   =================
+   .. Get started
+   .. =================
 
 .. toctree::
+   :caption: Clustering
    :maxdepth: 1
-
-   
 
    ADEPT
    GraphST
@@ -35,10 +35,11 @@ BenchmarkST - reproducibility documentation
    BASS_clustering
    DeepST
    
-   Clustering
-   =================
+   .. Clustering
+   .. =================
 
 .. toctree::
+   :caption: Integration
    :maxdepth: 1
 
    SPIRAL
@@ -50,8 +51,8 @@ BenchmarkST - reproducibility documentation
    BASS_integration
    DeepST_integration
    
-   Integration
-   ==================
+   .. Integration
+   .. ==================
 
 .. toctree::
    :maxdepth: 1
