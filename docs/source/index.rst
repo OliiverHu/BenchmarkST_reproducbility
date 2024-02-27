@@ -55,8 +55,9 @@ BenchmarkST - reproducibility documentation
    .. ==================
 
 .. toctree::
-   :maxdepth: 1
    :caption: Analysis:
+   :maxdepth: 1
+   
    
    
 
@@ -75,7 +76,7 @@ docs for data availability (1/1)
 
 docs for clustering methods (14/14)
 
-docs for integration methods (0/8)
+docs for integration methods (2/8)
 
 docs for figure reproduction (0/n)
 
