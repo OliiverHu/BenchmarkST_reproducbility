@@ -1,4 +1,4 @@
-BASS clustering tutorial
+BASS tutorial
 ============
 
 #. Dependencies
