@@ -7,14 +7,16 @@ BenchmarkST - reproducibility documentation
 =============================================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    Installation
    Data availability
-   :caption: Get started
+   
+   Get started
+   =================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    
 
@@ -32,10 +34,12 @@ BenchmarkST - reproducibility documentation
    PRECAST_clustering
    BASS_clustering
    DeepST
-   :caption: Clustering
+   
+   Clustering
+   =================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    SPIRAL
    STAligner
@@ -45,10 +49,12 @@ BenchmarkST - reproducibility documentation
    SPACEL
    BASS_integration
    DeepST_integration
-   :caption: Integration
+   
+   Integration
+   ==================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Analysis:
    
    
