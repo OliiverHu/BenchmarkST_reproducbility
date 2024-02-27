@@ -28,8 +28,8 @@ BenchmarkST - reproducibility documentation
    SEDR
    SpaGCN
    BayesSpace
-   PRECAST
-   BASS
+   PRECAST_clustering
+   BASS_clustering
    DeepST
 
 .. toctree::
