@@ -98,6 +98,7 @@ DR-SC
 #. Data Loading: MHypothalamus Bregma
 
 .. code-block:: r
+    
     dir.input <- file.path('/data/maiziezhou_lab/Datasets/ST_datasets/', sample.name)
 
     if(!dir.exists(file.path(dir.output))){
@@ -134,6 +135,7 @@ DR-SC
 #. Run the DR.SC
 
 .. code-block:: r
+
     sp_data <- NormalizeData(sp_data, verbose = F)
     # choose 500 highly variable features
     seu <- FindVariableFeatures(sp_data, nfeatures = 500, verbose = F)
@@ -145,6 +147,7 @@ DR-SC
 #. Calculate the ARI
 
 .. code-block:: r
+
     ## SAVE the files
     filename <- paste0(sample.name, ".csv")
     data_to_write_out <- as.data.frame(as.matrix(seu@meta.data))
