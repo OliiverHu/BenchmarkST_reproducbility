@@ -76,7 +76,9 @@ docs for data availability (1/1)
 
 docs for clustering methods (14/14)
 
-docs for integration methods (2/8)
+docs for integration methods (3/8)
+
+docs for simulated data integration (0/n)
 
 docs for figure reproduction (0/n)
 
