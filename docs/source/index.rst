@@ -66,7 +66,7 @@ BenchmarkST - reproducibility documentation
 
 News
 ========
-online currently under development
+online doc currently under development
 
 TODO list
 ========
@@ -90,4 +90,4 @@ We deeply appreciate for all the help that we have received from the authors of 
 
 Citation
 ========
-Yunfei Hu, etc. "Benchmarking clustering, alignment and integration methods for spatial transcriptomics", currently under review
+Yunfei Hu, et al. "Benchmarking clustering, alignment and integration methods for spatial transcriptomics", currently under review
