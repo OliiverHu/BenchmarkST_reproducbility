@@ -58,7 +58,7 @@ BenchmarkST - reproducibility documentation
    :caption: Simulated data
    :maxdepth: 1
 
-   Data simulation
+   DLPFCsimluatedData
    
 .. toctree::
    :caption: Analysis:
