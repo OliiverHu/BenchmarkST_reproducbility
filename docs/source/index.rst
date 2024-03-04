@@ -84,7 +84,7 @@ docs for data availability (1/1)
 
 docs for clustering methods (14/14) (ccst data preparation part)
 
-docs for integration methods (7/8)
+docs for integration methods (8/8)
 
 docs for simulated data integration (0/n) (script for simulation + how to run simulated data)
 
