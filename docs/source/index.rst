@@ -55,10 +55,18 @@ BenchmarkST - reproducibility documentation
    .. ==================
 
 .. toctree::
+   :caption: Simulated data
+   :maxdepth: 1
+
+   Data simulation
+   
+.. toctree::
    :caption: Analysis:
    :maxdepth: 1
    
-   
+   Clustering reproduce
+   Integration reproduce
+   3D reproduce
    
 
 .. image:: ../Images/benchmarkst_pipeline.png
@@ -70,17 +78,17 @@ online doc currently under development
 
 TODO list
 ========
-docs for general installation guide (1/1)
+docs for general installation guide (1/1) (github install + certain helper functions setup)
 
 docs for data availability (1/1)
 
-docs for clustering methods (14/14)
+docs for clustering methods (14/14) (ccst data preparation part)
 
-docs for integration methods (4/8)
+docs for integration methods (7/8)
 
-docs for simulated data integration (0/n)
+docs for simulated data integration (0/n) (script for simulation + how to run simulated data)
 
-docs for figure reproduction (0/n)
+docs for figure reproduction (0/n) (clustering + integration part reproduction)
 
 Introduction
 ========
