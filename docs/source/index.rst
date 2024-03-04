@@ -76,7 +76,7 @@ docs for data availability (1/1)
 
 docs for clustering methods (14/14)
 
-docs for integration methods (3/8)
+docs for integration methods (4/8)
 
 docs for simulated data integration (0/n)
 
