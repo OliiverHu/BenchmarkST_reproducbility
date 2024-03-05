@@ -69,7 +69,7 @@ BenchmarkST - reproducibility documentation
    3D reproduce
    
 
-.. image:: ../../images/benchmarkst_pipeline.png
+.. image:: ../../images/ppl.jpg
    :width: 600
 
 .. News
