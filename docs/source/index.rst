@@ -72,27 +72,33 @@ BenchmarkST - reproducibility documentation
 .. image:: ../../images/benchmarkst_pipeline.png
    :width: 600
 
-News
-========
-online doc currently under development
+.. News
+.. ========
+.. online doc currently under development
 
-TODO list
-========
-docs for general installation guide (1/1) (github install + certain helper functions setup)
+.. TODO list
+.. ========
+.. docs for general installation guide (1/1) (github install + certain helper functions setup)
 
-docs for data availability (1/1)
+.. docs for data availability (1/1)
 
-docs for clustering methods (14/14) (ccst data preparation part)
+.. docs for clustering methods (14/14) (ccst data preparation part)
 
-docs for integration methods (8/8)
+.. docs for integration methods (8/8)
 
-docs for simulated data integration (0/n) (script for simulation + how to run simulated data)
+.. docs for simulated data integration (0/n) (script for simulation + how to run simulated data)
 
-docs for figure reproduction (0/n) (clustering + integration part reproduction)
+.. docs for figure reproduction (0/n) (clustering + integration part reproduction)
 
 Introduction
 ========
-We benchmarked 14 clustering methods and 8 integration methods all with state-of-the-art performance. Evaluation occurred on 9 publicly available ST datasets of varying sizes, technologies, species, and complexity. Different experimental metrics and analyses, like adjusted rand index (ARI), uniform manifold approximation and projection (UMAP), node and layer matching ratio, spatial coherence score (SCS), and downstream biological analysis, are meticulously designed to quantitatively and qualitatvely assess method performance as well as data quality. GraphST, ADEPT, STAGATE, and BASS showed overall superior performance across different experiments. However, most clustering algorithms performed well on some datasets but had lower accuracy on others. Paste/Paste2 demonstrated distinctive performance in downstream analyses.
+Spatial transcriptomics (ST) is advancing our understanding of complex tissues and organisms. 
+However, building a robust clustering algorithm to define spatially coherent regions in a single tissue slice, and aligning or integrating multiple tissue slices originating from diverse sources for essential downstream analyses remain challenging. 
+Numerous clustering, alignment, and integration methods have been specifically designed for ST data by leveraging its spatial information. The absence of benchmark studies complicates the selection of methods and future method development. 
+We systematically benchmark a variety of state-of-the-art algorithms with a wide range of real and simulated datasets of varying sizes, technologies, species, and complexity. 
+Different experimental metrics and analyses, like adjusted rand index (ARI), uniform manifold approximation and projection (UMAP) visualization, layer-wise and spot-to-spot alignment accuracy, spatial coherence score (SCS), and 3D reconstruction, are meticulously designed to assess method performance as well as data quality. 
+We analyze the strengths and weaknesses of each method using diverse quantitative and qualitative metrics. 
+This analysis leads to a comprehensive recommendation that covers multiple aspects for users.
 
 Acknowledgement
 ========
