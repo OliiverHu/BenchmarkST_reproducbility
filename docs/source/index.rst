@@ -55,7 +55,7 @@ BenchmarkST - reproducibility documentation
    .. ==================
 
 .. toctree::
-   :caption: Simulated data
+   :caption: Data simulation
    :maxdepth: 1
 
    DLPFCsimulatedData
@@ -86,9 +86,9 @@ BenchmarkST - reproducibility documentation
 
 .. docs for integration methods (8/8)
 
-.. docs for simulated data integration (0/n) (script for simulation + how to run simulated data)
+.. docs for simulated data integration (done) 
 
-.. docs for figure reproduction (0/n) (clustering + integration part reproduction)
+.. docs for figure reproduction (0/3) (clustering + integration part reproduction)
 
 Introduction
 ========
