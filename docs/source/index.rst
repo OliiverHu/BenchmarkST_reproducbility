@@ -39,6 +39,17 @@ BenchmarkST - reproducibility documentation
    .. =================
 
 .. toctree::
+   :caption: Alignment
+   :maxdepth: 1
+
+   Paste
+   Paste2
+   SPACEL
+   
+   .. alignmetn
+   .. ==================
+
+.. toctree::
    :caption: Integration
    :maxdepth: 1
 
@@ -47,17 +58,6 @@ BenchmarkST - reproducibility documentation
    PRECAST_integration
    BASS_integration
    DeepST_integration
-   
-   .. Integration
-   .. ==================
-
-.. toctree::
-   :caption: Alignment
-   :maxdepth: 1
-
-   Paste
-   Paste2
-   SPACEL
    
    .. Integration
    .. ==================
