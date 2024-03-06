@@ -44,12 +44,20 @@ BenchmarkST - reproducibility documentation
 
    SPIRAL
    STAligner
-   Paste
-   Paste2
    PRECAST_integration
-   SPACEL
    BASS_integration
    DeepST_integration
+   
+   .. Integration
+   .. ==================
+
+.. toctree::
+   :caption: Alignment
+   :maxdepth: 1
+
+   Paste
+   Paste2
+   SPACEL
    
    .. Integration
    .. ==================
