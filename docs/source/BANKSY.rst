@@ -1,11 +1,10 @@
 BANKSY tutorial
 ============
 
-#. Dependencies
+1. Dependencies
 
 .. code-block:: r
 
-    .libPaths("/home/xiem6/0Virtual_Environment/R4.3_lib/")
     library(Banksy)
     library(SummarizedExperiment)
     library(SpatialExperiment)
@@ -16,9 +15,10 @@ BANKSY tutorial
     library(Seurat)
     library(hdf5r)
 
-#. Data loading: DLPFC
+2. Data loading: DLPFC
 
 .. code-block:: r
+
     sample.name <- "151573"
     cluster.number <- 7
     dir.input <- file.path('/home/xiem6/0Data/DLPFC12/', sample.name)
@@ -134,9 +134,10 @@ BANKSY tutorial
 
 ..     count <- as(as.matrix(cnts), "dgCMatrix")
 
-#. Run BANKSY
+3. Run BANKSY
 
 .. code-block:: r
+
     run_analysis <- function(respa) {
         #Initialize a SpatialExperiment object and perform basic quality control and normalization.
         se <- SpatialExperiment(assay = list(counts = gcm), spatialCoords = spatial_coor) 
@@ -256,9 +257,10 @@ BANKSY tutorial
     df_list <- c(df_list, list(result$df_i))
     }
 
-#. Save the output
+4. Save the output
 
 .. code-block:: r
+
     Write the original result dataframe to a txt file
     dir.output <- result$dirOut
     write.table(result_df, file = file.path(dir.output, "ori_ari.txt"), sep = "\t", row.names = FALSE, col.names=TRUE) 
