@@ -20,21 +20,23 @@ BenchmarkST - reproducibility documentation
    :caption: Clustering
    :maxdepth: 1
 
+   BANKSY
    ADEPT
    GraphST
+   SpaceFLow
    conST
-   conGI
+   ConGI
    SpatialPCA
    DR-SC
    STAGATE
    CCST
    SEDR
    SpaGCN
-   BayesSpace
-   PRECAST_clustering
-   BASS_clustering
    DeepST
-   
+   BayesSpace
+   BASS_clustering
+   PRECAST_clustering
+
    .. Clustering
    .. =================
 
@@ -43,6 +45,7 @@ BenchmarkST - reproducibility documentation
    :maxdepth: 1
 
    STalign
+   GPSA
    PASTE
    PASTE2
    SPACEL
