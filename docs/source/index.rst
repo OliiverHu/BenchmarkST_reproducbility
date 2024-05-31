@@ -118,4 +118,4 @@ We deeply appreciate for all the help that we have received from the authors of 
 
 Citation
 ========
-Yunfei Hu, et al. "Benchmarking clustering, alignment and integration methods for spatial transcriptomics", Genome Biology, under revision
+Yunfei Hu, et al. "Benchmarking clustering, alignment and integration methods for spatial transcriptomics", [link](https://www.biorxiv.org/content/10.1101/2024.03.12.584114v1.abstract)
