@@ -81,7 +81,7 @@ BenchmarkST - reproducibility documentation
    3D reproduce
    
 
-.. image:: ../../images/ppl.jpg
+.. image:: ../../images/BenchmarkST_ppl_0531.jpg
    :width: 600
 
 .. News
@@ -118,4 +118,4 @@ We deeply appreciate for all the help that we have received from the authors of 
 
 Citation
 ========
-Yunfei Hu, et al. "Benchmarking clustering, alignment and integration methods for spatial transcriptomics", currently under review
+Yunfei Hu, et al. "Benchmarking clustering, alignment and integration methods for spatial transcriptomics", Genome Biology, under revision
