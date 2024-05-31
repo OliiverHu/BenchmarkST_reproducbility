@@ -23,7 +23,7 @@ BenchmarkST - reproducibility documentation
    BANKSY
    ADEPT
    GraphST
-   SpaceFLow
+   SpaceFlow
    conST
    ConGI
    SpatialPCA
