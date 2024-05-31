@@ -1,7 +1,7 @@
 DR-SC tutorial
 ============
 
-#. Dependencies
+1. Dependencies
 
 .. code-block:: r
     library("DR.SC")
@@ -9,7 +9,7 @@ DR-SC tutorial
     library(ggplot2)
     library(tictoc)
 
-#. Data loading: DLPFC
+2. Data loading: DLPFC
 
 .. code-block:: r
 
@@ -95,7 +95,7 @@ DR-SC tutorial
    head(sp_data)
 
 
-#. Data Loading: MHypothalamus Bregma
+3. Data Loading: MHypothalamus Bregma
 
 .. code-block:: r
 
@@ -132,7 +132,7 @@ DR-SC tutorial
     sp_data$orig.ident <- 1
     Idents(sp_data) <- row.names(sp_data@meta.data)
 
-#. Run the DR.SC
+4. Run the DR.SC
 
 .. code-block:: r
 
@@ -144,7 +144,7 @@ DR-SC tutorial
     seu <- DR.SC(seu, K=as.numeric(cluster.number), platform = 'Visium', verbose=F)
 
 
-#. Calculate the ARI
+5. Calculate the ARI
 
 .. code-block:: r
 

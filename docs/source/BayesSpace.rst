@@ -1,7 +1,7 @@
 BayesSpace tutorial
 ============
 
-#. Dependencies
+1. Dependencies
 
 .. code-block:: r
 
@@ -10,7 +10,7 @@ BayesSpace tutorial
     library(BayesSpace)
     library(Seurat)
 
-#. Data loading: DLPFC
+2. Data loading: DLPFC
 
 .. code-block:: r
 
@@ -96,7 +96,7 @@ BayesSpace tutorial
     head(sp_data@meta.data)
 
 
-#. Data Loading: MHypothalamus Bregma
+3. Data Loading: MHypothalamus Bregma
 
 .. code-block:: r
     
@@ -127,7 +127,7 @@ BayesSpace tutorial
     colnames(xys) <- c('row','col')
     colData <- xys
 
-#. Run BayesSpace
+4. Run BayesSpace
 
 .. code-block:: r
 
@@ -150,7 +150,7 @@ BayesSpace tutorial
                         nrep=50000, gamma=3, save.chain=TRUE)
 
 
-#. Calculate the ARI and save the output
+5. Calculate the ARI and save the output
 
 .. code-block:: r
 

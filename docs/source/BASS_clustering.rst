@@ -1,7 +1,7 @@
 BASS tutorial
 ============
 
-#. Dependencies
+1. Dependencies
 
 .. code-block:: r
 
@@ -10,7 +10,7 @@ BASS tutorial
     library(Seurat)
     library(ggplot2)
 
-#. Data loading: DLPFC
+2. Data loading: DLPFC
 
 .. code-block:: r
 
@@ -108,7 +108,7 @@ BASS tutorial
     R = as.numeric(cluster.number)
 
 
-#. Data Loading: MHypothalamus Bregma
+3. Data Loading: MHypothalamus Bregma
 
 .. code-block:: r
     
@@ -138,7 +138,7 @@ BASS tutorial
     C <- 20 # number of cell types
     R <- as.numeric(cluster.number) # number of spatial domains
 
-#. Run BASS
+4. Run BASS
 
 .. code-block:: r
 
@@ -160,7 +160,7 @@ BASS tutorial
     zlabels <- BASS@results$z # spatial domain labels
 
 
-#. Calculate the ARI and save the output
+5. Calculate the ARI and save the output
 
 .. code-block:: r
 

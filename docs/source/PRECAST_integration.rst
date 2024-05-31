@@ -1,7 +1,7 @@
 PRECAST integration tutorial
 ============
 
-#. Dependencies
+1. Dependencies
 
 .. code-block:: r
 
@@ -9,7 +9,7 @@ PRECAST integration tutorial
     library(Seurat)
     library(ggplot2)
 
-#. Data loading: DLPFC
+2. Data loading: DLPFC
 
 .. code-block:: r
 
@@ -73,13 +73,13 @@ PRECAST integration tutorial
     seuList <- lapply(sample.names, function(sample.name) processSample(sample.name, dir.base, dir.output.base, layer.input.base, cluster.number))
 
 
-#. Data Loading: MHypothalamus Bregma
+.. 3. Data Loading: MHypothalamus Bregma
 
-.. code-block:: r
+.. .. code-block:: r
     
     
 
-#. Run PRECAST integration
+3. Run PRECAST integration
 
 .. code-block:: r
 
@@ -114,7 +114,7 @@ PRECAST integration tutorial
 
 
 
-#. Calculate the ARI and save the output
+4. Calculate the ARI and save the output
 
 .. code-block:: r
 

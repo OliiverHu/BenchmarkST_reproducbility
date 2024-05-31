@@ -1,7 +1,7 @@
 PRECAST tutorial
 ============
 
-#. Dependencies
+1. Dependencies
 
 .. code-block:: r
 
@@ -9,7 +9,7 @@ PRECAST tutorial
     library(Seurat)
     library(ggplot2)
 
-#. Data loading: DLPFC
+2. Data loading: DLPFC
 
 .. code-block:: r
 
@@ -99,7 +99,7 @@ PRECAST tutorial
     head(sp_data@meta.data)
 
 
-#. Data Loading: MHypothalamus Bregma
+3. Data Loading: MHypothalamus Bregma
 
 .. code-block:: r
     
@@ -137,7 +137,7 @@ PRECAST tutorial
     sp_data$orig.ident <- 1
     Idents(sp_data) <- row.names(sp_data@meta.data)
 
-#. Run PRECAST clustering
+4. Run PRECAST clustering
 
 .. code-block:: r
 
@@ -151,7 +151,7 @@ PRECAST tutorial
     PRECASTObj <- PRECAST(PRECASTObj, K = as.numeric(cluster.number))
 
 
-#. Calculate the ARI and save the output
+5. Calculate the ARI and save the output
 
 .. code-block:: r
 

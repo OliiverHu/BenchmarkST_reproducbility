@@ -1,7 +1,7 @@
 BASS integration tutorial
 ============
 
-#. Dependencies
+1. Dependencies
 
 .. code-block:: r
 
@@ -10,7 +10,7 @@ BASS integration tutorial
     library(Seurat)
     library(ggplot2)
 
-#. Data loading: DLPFC
+2. Data loading: DLPFC
 
 .. code-block:: r
 
@@ -112,13 +112,13 @@ BASS integration tutorial
     C <- 20  # Number of clusters, for example
 
 
-#. Data Loading: MHypothalamus Bregma
+3. Data Loading: MHypothalamus Bregma
 
 .. code-block:: r
     
     
 
-#. Run BASS integration
+4. Run BASS integration
 
 .. code-block:: r
 
@@ -136,7 +136,7 @@ BASS integration tutorial
     BASS <- BASS.postprocess(BASS)
 
 
-#. Calculate the ARI and save the output
+5. Calculate the ARI and save the output
 
 .. code-block:: r
 
