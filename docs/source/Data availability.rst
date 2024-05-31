@@ -29,7 +29,7 @@ Data availability
      - `link <https://zenodo.org/records/10698903>`__
    * - Mouse Brain Section 2 Sagittal Anterior and Posterior
      - Sequencing-based
-     - MB2SA\&B
+     - MB2SA\&P
      - 10x Visium
      - 2
      - `Mouse Brain Serial Section 2 Sagittal Anterior <https://www.10xgenomics.com/resources/datasets/mouse-brain-serial-section-2-sagittal-anterior-1-standard>`__

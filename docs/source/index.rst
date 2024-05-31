@@ -42,8 +42,9 @@ BenchmarkST - reproducibility documentation
    :caption: Alignment
    :maxdepth: 1
 
-   Paste
-   Paste2
+   STalign
+   PASTE
+   PASTE2
    SPACEL
    
    .. alignmetn
