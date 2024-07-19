@@ -11,7 +11,8 @@ Data availability
      - Abbreviations
      - ST protocol
      - Num. of slices
-     - Source
+     - Data Source
+     - Annotation Source
      - Download link
    * - Human Dorsal Lateral Prefrontal Cortex data
      - Sequencing-based
@@ -19,13 +20,15 @@ Data availability
      - 10x Visium
      - 12
      - `spatialLIBD <http://spatial.libd.org/spatialLIBD/>`__
+     - `spatialLIBD <http://spatial.libd.org/spatialLIBD/>`__
      - `link <https://zenodo.org/records/10698880>`__
-   * - Human Breast Cancer Block A
+   * - Human Breast Cancer Block A section 1
      - Sequencing-based
      - HBCA1
      - 10x Visium
-     - 2
+     - 1
      - `Breast Cancer Block A <https://support.10xgenomics.com/spatial-gene-expression/datasets/1.1.0/V1_Breast_Cancer_Block_A_Section_1>`__
+     - `SEDR Analysis Data <https://github.com/JinmiaoChenLab/SEDR/>`__
      - `link <https://zenodo.org/records/10698903>`__
    * - Mouse Brain Section 2 Sagittal Anterior and Posterior
      - Sequencing-based
@@ -33,6 +36,7 @@ Data availability
      - 10x Visium
      - 2
      - `Mouse Brain Serial Section 2 Sagittal Anterior <https://www.10xgenomics.com/resources/datasets/mouse-brain-serial-section-2-sagittal-anterior-1-standard>`__
+     - `ConGI Analysis Data <https://github.com/biomed-AI/ConGI>`__
      - `link <https://zenodo.org/records/10698931>`__
    * - HER2 Positive Breast Tumors
      - Sequencing-based
@@ -40,19 +44,22 @@ Data availability
      - Spatial Transcriptomics
      - 8
      - `HER2st <https://github.com/almaan/her2st>`__
+     - `HER2st <https://github.com/almaan/her2st>`__
      - `link <https://zenodo.org/records/10698947>`__
    * - Mouse Hippocampus
      - Sequencing-based
      - MHPC
      - Slide-seq v2
      - 1
-     - `SCP815 <https://singlecell.broadinstitute.org/single_cell/study/SCP815>`__
+     - `SCP815 Puck_200115_08 <https://singlecell.broadinstitute.org/single_cell/study/SCP815/sensitive-spatial-genome-wide-expression-profiling-at-cellular-resolution#study-summary>`__
+     - `SCP815 Puck_200115_08 <https://singlecell.broadinstitute.org/single_cell/study/SCP815/sensitive-spatial-genome-wide-expression-profiling-at-cellular-resolution#study-summary>`__
      - `link <https://zenodo.org/records/10698960>`__
    * - MOSTA Embryo
      - Sequencing-based
      - Embryo
      - Stereo-seq
      - :math:`>=50`
+     - `MOSTA Resource <https://db.cngb.org/stomics/mosta/resource/>`__
      - `MOSTA Resource <https://db.cngb.org/stomics/mosta/resource/>`__
      - `link <https://zenodo.org/records/10698963>`__
    * - Mouse Visual Cortex
@@ -61,12 +68,14 @@ Data availability
      - STARmap
      - 1
      - `STARmap Resources <https://www.STARmapresources.com/data>`__
+     - `STARmap Resources <https://www.STARmapresources.com/data>`__
      - `link <https://zenodo.org/records/10698912>`__
    * - Mouse Prefrontal Cortex
      - Sequencing-based
      - MPFC
      - STARmap
      - 3
+     - `STARmap Resources <https://www.STARmapresources.com/data>`__
      - `BASS Analysis Data <https://github.com/zhengli09/BASS-Analysis/blob/master/data/STARmap_mpfc.RData>`__
      - `link <https://zenodo.org/records/10698914>`__
    * - Mouse Hypothalamus
@@ -75,6 +84,7 @@ Data availability
      - MERFISH
      - 5
      - `Datadryad <https://datadryad.org/stash/dataset/doi:10.5061/dryad.8t8s248>`__
+     - `BASS Analysis Data <https://github.com/zhengli09/BASS-Analysis/blob/master/data/MERFISH_Animal1.RData>`__
      - `link <https://zenodo.org/records/10698909>`__
    * - Mouse Brain
      - Imaging-based
@@ -82,6 +92,7 @@ Data availability
      - MERFISH
      - 33
      - `Zenodo Records <https://zenodo.org/records/8167488>`__
+     - `link <https://zenodo.org/records/8167488>`__
      - `link <https://zenodo.org/records/8167488>`__
 
 
