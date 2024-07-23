@@ -81,7 +81,7 @@ BenchmarkST - reproducibility documentation
    3D reproduce
    
 
-.. image:: ../../images/BenchmarkST_ppl_0531.png
+.. image:: ../../images/ppl_final_ver.png
    :width: 600
 
 .. News
